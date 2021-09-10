@@ -1,1 +1,1 @@
-# HTML-CSS-course
+This is a repo created for my work on the HTML-CSS mini course @ SoftUni.
