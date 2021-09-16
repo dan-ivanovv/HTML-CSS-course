@@ -1,0 +1,35 @@
+body{
+    font-family: sans-serif;
+    background-color: gainsboro;
+    margin: 0;
+    text-align: center;
+}
+nav{
+    background-color:turquoise;
+    padding: 15px;
+
+}
+nav li{
+    padding: 0 30px;
+    display: inline-block;
+}
+
+nav li a{
+    color: darkslateblue;
+    text-decoration: none;
+}
+nav ul li a {
+    display: block;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: darkslateblue;
+    border-radius: 5px;
+}
+nav a:hover{
+    background-color: cornflowerblue;
+    color: white;
+}
+nav a.active{
+    background-color: black;
+    color: white;
+}
